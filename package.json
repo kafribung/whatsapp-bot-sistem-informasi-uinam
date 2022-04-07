@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.16.5"
+  },
+  "name": "whatsapp-web-sistem-informasi-uinam",
+  "version": "1.0.0",
+  "description": "BOT WA masih dalam proses pengembangan",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "author": "Kafri Bung",
+  "license": "ISC"
+}
